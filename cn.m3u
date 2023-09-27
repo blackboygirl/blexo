@@ -151,4 +151,6 @@ http://123.160.108.10:6610/PLTV2/3900/1.m3u8?
 http://123.160.108.12:6610/PLTV2/90056/1.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="47" tvg-name="河南卫视4K" group-title="卫视",河南卫视4K
 http://123.160.108.12:6610/PLTV2/2780/default.m3u8?
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
