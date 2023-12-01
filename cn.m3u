@@ -153,3 +153,7 @@ http://123.160.108.12:6610/PLTV2/90056/1.m3u8?
 http://123.160.108.12:6610/PLTV2/2780/default.m3u8?
 #EXTINF:-1 tvg-id="CTiNews.tw",中天新聞台 (1080p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw",Taiwan Plus TV (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="GeniusGoGoGo.tw",华视 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
